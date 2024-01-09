@@ -1,6 +1,6 @@
 # vydm
 
-Video Downloader
+User manager
 
 ## Getting Started
 
